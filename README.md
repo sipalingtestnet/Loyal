@@ -27,7 +27,7 @@ https://docs.joinloyal.io/validators/run-a-loyal-validator
 
 ## Install Node
 ```
-wget -O LYL.sh https://raw.githubusercontent.com/Nodeist/Kurulumlar/main/Loyal/LYL && chmod +x LYL.sh && ./LYL.sh
+wget -O loyal.sh https://raw.githubusercontent.com/sipalingtestnet/Loyal/main/loyal.sh && chmod +x loyal.sh && ./loyal.sh
 ```
 ***Kemudian masukin nama validator lu bang***
 
